@@ -1,2 +1,2 @@
-# demorepo
-noworkjustforpractice
+##GIt pract repo
+#AUTHOR -  SHARDU MORE
