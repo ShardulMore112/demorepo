@@ -1,2 +1,2 @@
 ##GIt pract repo
-#AUTHOR -  SHARDU MORE
+#AUTHOR -  SHARDUL MORE
